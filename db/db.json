@@ -1,12 +1,1 @@
-{
-    "notes": [
-        {
-            "title": "Test Title",
-            "text": "Test text"
-        },
-        {
-            "title": "Test Title 2",
-            "text": "Test text 2"
-        }
-    ]
-}
+[{"title":"hello","text":"dog","id":"5656c276-344b-4182-9c0a-d2fe9dae5134"},{"title":"hello","text":"cat","id":"ea4c145a-c075-4123-b8e1-b3e038a0ba3b"}]

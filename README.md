@@ -6,4 +6,5 @@ An app to take and save notes. You can update notes and delete them.
 
 Repo: https://github.com/robyng/note-taker
 
-Deployed:
+Deployed: https://protected-hamlet-78096.herokuapp.com/ 
+
